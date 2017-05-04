@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "adventure webgl.data.unityweb",
+"asmCodeUrl": "adventure webgl.asm.code.unityweb",
+"asmMemoryUrl": "adventure webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "adventure webgl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
