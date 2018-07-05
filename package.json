@@ -1,27 +1,27 @@
 {
   "name": "ecorogue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "EcoRogue test",
   "engines": {
-    "node": "6.10.0"
+    "node": "8.11.3"
   },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "connect": "^3.6.0",
-    "serve-static": "^1.12.1"
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/DoHe/ecorogue"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-airbnb": "^14.1.0",
-    "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.10.3"
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.9.3"
   }
 }
