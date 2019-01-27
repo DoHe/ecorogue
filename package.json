@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "EcoRogue test",
   "engines": {
-    "node": "8.11.3"
+    "node": "8.15.0"
   },
   "main": "index.js",
   "scripts": {
