@@ -1,9 +1,9 @@
 {
   "name": "ecorogue",
-  "version": "0.0.3",
-  "description": "EcoRogue test",
+  "version": "0.1.0",
+  "description": "Game inventory",
   "engines": {
-    "node": "8.11.3"
+    "node": "10"
   },
   "main": "index.js",
   "scripts": {
@@ -18,10 +18,10 @@
     "url": "https://github.com/DoHe/ecorogue"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^17.0.0",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.9.3"
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4"
   }
 }
